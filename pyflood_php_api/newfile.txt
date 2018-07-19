@@ -1,0 +1,1 @@
+{"events":[{"type":"message","replyToken":"b14959c22a0c43abaafdbe074f36d086","source":{"userId":"U1b6de0ae915180340652adccba3e084f","type":"user"},"timestamp":1530504697024,"message":{"type":"text","id":"8200797462715","text":"รับแจ้งเตือน อ.เชียงดอกคำใต้"}}]}
